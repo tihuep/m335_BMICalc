@@ -4,4 +4,6 @@
     <string name="weightTitle">Gewicht in Kilogramm</string>
     <string name="heightTitle">Grösse in Metern</string>
     <string name="btnCalcText">Berechnen</string>
+    <string name="BMITitle">BMI</string>
+    <string name="ClassificationTitle">Klassifizierung</string>
 </resources>
