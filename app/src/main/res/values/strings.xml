@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">BMICalc</string>
+    <string name="title">BMI-Rechner</string>
+    <string name="weightTitle">Gewicht in Kilogramm</string>
+    <string name="heightTitle">Grösse in Metern</string>
+    <string name="btnCalcText">Berechnen</string>
 </resources>
