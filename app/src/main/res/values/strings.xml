@@ -6,4 +6,12 @@
     <string name="btnCalcText">Berechnen</string>
     <string name="BMITitle">BMI</string>
     <string name="ClassificationTitle">Klassifizierung</string>
+
+
+    <string name="Underweight">Untergewichtig</string>
+    <string name="NormalWeight">Normalgewichtig</string>
+    <string name="PreObesity">Vor-Übergewicht</string>
+    <string name="ObesityClassI">Übergewichtsklasse I</string>
+    <string name="ObesityClassII">Übergewichtsklasse II</string>
+    <string name="ObesityClassIII">Übergewichtsklasse III</string>
 </resources>

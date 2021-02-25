@@ -10,6 +10,8 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.BMICalc">
         <activity android:name=".ResultActivity"></activity>
+        <service android:name=".service.BMIService"
+            android:exported="false"></service>
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
